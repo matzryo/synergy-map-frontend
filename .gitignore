@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# vscodeの変更差分を保存するディレクトリ.historyを除外(vscodeのLocalHistory拡張機能)
+.history
