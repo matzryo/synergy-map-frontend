@@ -18,5 +18,10 @@
     "tslib": "^2.4.0",
     "typescript": "^4.6.4",
     "vite": "^3.2.3"
+  },
+  "dependencies": {
+    "events": "^3.3.0",
+    "scryfall-sdk": "^3.2.1",
+    "vis-network": "^9.1.2"
   }
 }
