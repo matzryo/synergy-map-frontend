@@ -1,0 +1,13 @@
+# エディタが自動生成するディレクトリ、ファイルたち
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# vscodeの変更差分を保存するディレクトリ.historyを除外(vscodeのLocalHistory拡張機能)
+.history
