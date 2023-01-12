@@ -1,0 +1,8 @@
+# 環境共通の設定
+services:
+  apollo-server:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - 4000:4000
